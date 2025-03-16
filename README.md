@@ -1,6 +1,7 @@
 # Exam Management System
 
-The **Exam Management System** is a console-based Java application designed to facilitate the creation, management, and administration of exams for educational institutions. The system supports two types of users: **Admins** and **Students**.
+The **Exam Management System** is a console-based Java application designed to facilitate the creation, management, and administration of exams for educational institutions.
+The system supports two types of users: **Admins** and **Students**.
 
 ## Features
 
