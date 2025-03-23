@@ -26,3 +26,6 @@ The system supports two types of users: **Admins** and **Students**.
 - **Unit Testing**: Add JUnit tests for better code reliability.
 - **User Interface**: Develop a graphical user interface (GUI) for a better user experience.
 
+## Demo
+https://github.com/user-attachments/assets/4dc01e0b-d61a-4752-8687-c2dbe83ba4b5
+
